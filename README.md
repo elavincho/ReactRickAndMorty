@@ -1,3 +1,46 @@
+# Rick and Morty API - Consumir una API con React
+
+En este proyecto realicé tarjetas de Rick and Morty, obteniendo datos de la **API** de Rick and Morty **rickandmortyapi.com** el cual nos provee toda la información de los personajes, localizaciones, episodios.
+
+## Tecnologías utilizadas
+
+- **Frontend**:
+  - React
+  - Bootstrap
+
+- **Deploy**:
+  - Netlify
+
+## Link del Proyecto
+- https://elavinchorickandmortyapi.netlify.app
+  
+## Objetivo del Proyecto
+
+Este sistema tiene la finalidad de crear tarjetas de Rick and Morty en la cual obtenemos todos los datos de la **API de Rick and Morty** la cual nos brinda la siguiente información:
+
+- Nombre del personaje
+- Estatus
+- Especie
+- Genero
+- Origen
+- Imagen
+
+## Imagenes del proyecto
+
+<img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_1.png" width="200" height="200" alt="img"/>           <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_2.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_3.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_4.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_5.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_6.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_7.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_8.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_9.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_10.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_11.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_12.png" width="200" height="200" alt="img"/>
+
+
+
+
+
+## Video del proyecto
+
+[![Video tutorial](https://github.com/elavincho/ecommerce/blob/master/images/img_video.png)](https://youtube.com/shorts/IBxnQXFgZXI)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
