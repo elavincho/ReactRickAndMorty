@@ -1,4 +1,4 @@
-# React Rick and Morty API - Consumir una API
+# React Rick and Morty - Consumir una API
 
 En este proyecto realicé tarjetas de Rick and Morty, obteniendo datos de la **API** de Rick and Morty **rickandmortyapi.com** el cual nos provee toda la información de los personajes, localizaciones, episodios.
 
