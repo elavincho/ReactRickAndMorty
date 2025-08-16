@@ -7,13 +7,13 @@ En este proyecto realicé tarjetas de Rick and Morty, obteniendo datos de la **A
 - **Frontend**:
   - React
   - Bootstrap
-
+<!---
 - **Deploy**:
   - Netlify
 
 ## Link del Proyecto
 - https://elavinchorickandmortyapi.netlify.app
-  
+--->
 ## Objetivo del Proyecto
 
 Este sistema tiene la finalidad de crear tarjetas de Rick and Morty en la cual obtenemos todos los datos de la **API de Rick and Morty** la cual nos brinda la siguiente información:
