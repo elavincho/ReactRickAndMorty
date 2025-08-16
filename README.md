@@ -39,7 +39,9 @@ Este sistema tiene la finalidad de crear tarjetas de Rick and Morty en la cual o
 
 
 
-
+<!---
+elavincho/elavincho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 
 # Getting Started with Create React App
 
@@ -111,3 +113,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+--->
