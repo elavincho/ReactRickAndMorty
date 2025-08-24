@@ -25,7 +25,7 @@ Este sistema tiene la finalidad de crear tarjetas de Rick and Morty en la cual o
 - Origen
 - Imagen
 
-## Imagenes del proyecto
+## Imágenes del proyecto
 
 <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_1.png" width="200" height="200" alt="img"/>           <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_2.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_3.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_4.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_5.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_6.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_7.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_8.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_9.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_10.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_11.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_12.png" width="200" height="200" alt="img"/>
 
