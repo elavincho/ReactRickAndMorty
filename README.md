@@ -1,3 +1,5 @@
+<img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/rick_morty.png" width="80" height="80" alt="img"/> 
+
 # React Rick and Morty - Consumir una API
 
 En este proyecto realicé tarjetas de Rick and Morty, obteniendo datos de la **API** de Rick and Morty **rickandmortyapi.com** el cual nos provee toda la información de los personajes, localizaciones, episodios.
